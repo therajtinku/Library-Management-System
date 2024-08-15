@@ -1,3 +1,4 @@
+[Imgur](https://i.imgur.com/muu0Taz.jpg)
 # Library Management System
 
 This project is a **Library Management System** developed using **React** (with Vite for bundling), **Express.js**, **MySQL**, and **Sequelize**. It is designed to manage books, students, and borrowing records, providing an intuitive interface for library administrators.
