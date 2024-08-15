@@ -41,6 +41,7 @@ Library.belongsTo(Student);
 
 Book.hasMany(Library);
 Library.belongsTo(Book);
+```
 
 ## Project Output
 
