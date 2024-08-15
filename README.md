@@ -41,3 +41,7 @@ Library.belongsTo(Student);
 
 Book.hasMany(Library);
 Library.belongsTo(Book);
+
+## Project Output
+
+- Library Records ![Library Records](https://i.imgur.com/Ovfd4zy.png)
